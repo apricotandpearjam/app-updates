@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Trigger</title>
+        <item>
+            <title>1.4</title>
+            <pubDate>Thu, 25 Jun 2026 13:26:40 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Trigger 1.4</h2><ul>
+<li>In-app updates, Trigger now tells you when a new version is out and installs it in one click</li>
+<li>Faster, more reliable key and MIDI mapping</li>
+<li>Small fixes and polish</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/trigger/Trigger-1.4.dmg" length="2367403" type="application/octet-stream" sparkle:edSignature="9kyP9jqmvF6SXRrx9jw4Sk7m/uNITad5/kgWjQQc/SuzivACaqCKdAL2bFhgjZHvBO05Yyzq3BiXtMfo7CtLBQ=="/>
+        </item>
+    </channel>
+</rss>
