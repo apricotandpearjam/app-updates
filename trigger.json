@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "notes": "• TEST RELEASE — this is a live demo of the update banner\n• It will be reverted to 1.4 in a moment",
+  "version": "1.4",
+  "notes": "• Update notifications built in, so Trigger tells you when a new version is out\n• Faster, more reliable key and MIDI mapping\n• Small fixes and polish",
   "downloadURL": "https://allgoodfolks.com/trigger",
   "minimumSystemVersion": "13.0"
 }
