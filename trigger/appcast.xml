@@ -3,6 +3,19 @@
     <channel>
         <title>Trigger</title>
         <item>
+            <title>1.5</title>
+            <pubDate>Thu, 25 Jun 2026 13:33:51 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Trigger 1.5</h2><ul><li>This is a LIVE TEST build and will be removed.</li><li>It is here to demonstrate the in-app update popup and banner.</li></ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/trigger/Trigger-1.5.dmg" length="2831775" type="application/octet-stream" sparkle:edSignature="kWQR5KIq0Rlh7ODdtQEQPgaNxKt/rVNYqZnt1f2jckbBH6NGyWHOSLSjNLQy4iwmPQFW3WuETyUEHhfDMV7ZCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/trigger/Trigger12-11.delta" sparkle:deltaFrom="11" length="10886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="awm3N97j2hP4ZfCLH87eu3yo/ql0QpnLanYP/GJNSHf9/n+eRCoBiXZNo8hQTv0KDhGz26JtGrkqSr9q+UQ/BA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Thu, 25 Jun 2026 13:26:40 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
