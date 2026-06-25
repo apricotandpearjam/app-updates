@@ -1,0 +1,6 @@
+{
+  "version": "1.4",
+  "notes": "\u2022 Update notifications \u2014 Trigger now tells you when a new version is out\n\u2022 Faster, more reliable key and MIDI mapping\n\u2022 Small fixes and polish",
+  "downloadURL": "https://allgoodfolks.com/trigger",
+  "minimumSystemVersion": "13.0"
+}
