@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Kontakt Artwork</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 21 Sep 2026 17:35:00 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.0</h2><ul>
+<li>First release.</li>
+<li>Give any Kontakt library a proper 420x316 tile and 1280x212 banner.</li>
+<li>Covers found for you, drag one in and install.</li>
+<li>Reorder the Default view and save arrangements as scenes.</li>
+<li>Back artwork, originals, order and scenes up to iCloud, Dropbox or any folder.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.0.dmg" length="7123385" type="application/octet-stream" sparkle:edSignature="oJ6jOOSGhNOP2AsagxJA/ybQ5EsiNGAW6Ixyuf8qXRCBhxcRCFhc470EC+Xw59gBnBMICrTQRgojodl6hGwTBA=="/>
+        </item>
+    </channel>
+</rss>
