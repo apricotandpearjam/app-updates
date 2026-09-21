@@ -3,6 +3,19 @@
     <channel>
         <title>Kontakt Artwork</title>
         <item>
+            <title>1.0 (2)</title>
+            <pubDate>Mon, 21 Sep 2026 21:05:00 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.0 (2)</h2><ul>
+<li>If the app ever crashes it can now send a report, so problems get fixed quickly.</li>
+<li>Backups now include your saved order scenes, which were being left out.</li>
+<li>The filter is a menu, so it no longer squashes into the sidebar.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.0.2.dmg" length="7139527" type="application/octet-stream" sparkle:edSignature="tbQ2Enal8cgZAsP0+SEiB8f1d5cjW0G/MvWEwzlWcKrGHsU2BUmAoJKEA0514i2kAbse5riXdz8ffbxZPd2SBA=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 21 Sep 2026 17:35:00 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
