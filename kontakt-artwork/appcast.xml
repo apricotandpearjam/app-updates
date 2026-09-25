@@ -3,9 +3,30 @@
     <channel>
         <title>Kontakt Artwork</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Fri, 25 Sep 2026 15:54:04 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.1</h2><ul>
+<li>Auto generate builds real compositions: the cover multiplied or mirrored across the banner, the name in its own light or on a backdrop.</li>
+<li>Repeat: mirror or multiply any picture to any side, flip, gap, empty middle, or a reflection at the far edge of the frame.</li>
+<li>Text and Subject tools: drag a box, and the lettering or subject is lifted onto its own layer or removed.</li>
+<li>Type: system font families, weights, letter spacing and line spacing.</li>
+<li>Backdrops and vignettes that know where the words are; the vignette spares the layer it sits under.</li>
+<li>Pictures: soften edges, turn sideways or upside down, keep only the subject.</li>
+<li>Grounds: any colour or gradient in any direction, with paper, linen or brushed texture, grain and fade.</li>
+<li>Eyedropper for every colour. Centre snapping while dragging, right-angle snapping and a degrees readout while turning.</li>
+<li>One INSTALL writes tile and banner together, with a preview of the band Kontakt always shows.</li>
+<li>Sidebar in Kontakt's own order, drag to change it; Art only rows; hide expansions.</li>
+<li>Build from the classic Libraries view. Deactivate this Mac. Crash report attached to Get help.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.1.dmg" length="8131483" type="application/octet-stream" sparkle:edSignature="Bhi8RJlcFKFOfMW1FfGavfaUTyZejhdBcIySwPjVpFHl7/QUA8HEej7yIws0M6EgzMeDkALE+AdJ8GrHQcHLCg=="/>
+        </item>
+        <item>
             <title>1.0</title>
-            <pubDate>Mon, 21 Sep 2026 21:30:00 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <pubDate>Mon, 21 Sep 2026 17:35:00 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Kontakt Artwork 1.0</h2><ul>
@@ -15,7 +36,7 @@
 <li>Reorder the Default view and save arrangements as scenes.</li>
 <li>Back artwork, originals, order and scenes up to iCloud, Dropbox or any folder.</li>
 </ul>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.0.dmg" length="7139373" type="application/octet-stream" sparkle:edSignature="QvHBRCKkSkUPIkoSIvIobX8So34IfF+6IDdRDm8FEdLfK1tAt5XOB6dFbmXHp76cMMwZ0ZbI4sD5eHdY5LipBQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.0.dmg" length="7109785" type="application/octet-stream" sparkle:edSignature="DH4MzoshWnpAFVxVNSS6jCtsSlJYSsW+Hy2o7ZGEsuLwQMeiazgdPs0cZ15ulwb5mY2uCPbyvfXrHJ3CB1P6AA=="/>
         </item>
     </channel>
 </rss>
