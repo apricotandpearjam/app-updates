@@ -1,5 +1,9 @@
 # Kontakt Artwork
 
+## 1.1.1, 4 October 2026
+- Backups to iCloud Drive no longer make numbered copies of your libraries ("8DIO 2", "8DIO 3"). Any copies already there are cleared the first time you open this version.
+- Libraries that share a name in Kontakt now each get their own row, so both can have artwork.
+
 ## 1.1 — 25 September 2026
 - Auto generate builds real compositions: the cover multiplied or mirrored across the banner, the name in its own light or on a backdrop.
 - Repeat: mirror or multiply any picture to any side, flip, gap, empty middle, or a reflection at the far edge of the frame.
