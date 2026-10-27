@@ -1,5 +1,10 @@
 # Kontakt Artwork
 
+## 1.1.2, 27 October 2026
+- Get help now sends your message straight to us from inside the app, with an optional name and a short report attached so we can see what went wrong. Or send it from your own email app if you prefer.
+- If Kontakt Artwork ever closes unexpectedly, it offers to send a report the next time you open it.
+- Privacy Policy link in Help, and clearer help links in light and dark mode.
+
 ## 1.1.1, 4 October 2026
 - Backups to iCloud Drive no longer make numbered copies of your libraries ("8DIO 2", "8DIO 3"). Any copies already there are cleared the first time you open this version.
 - Libraries that share a name in Kontakt now each get their own row, so both can have artwork.
