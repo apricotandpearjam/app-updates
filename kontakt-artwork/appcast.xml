@@ -3,6 +3,19 @@
     <channel>
         <title>Kontakt Artwork</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Tue, 27 Oct 2026 12:59:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.1.2</h2><ul>
+<li>Get help now sends your message straight to us from inside the app, with an optional name and a short report attached so we can see what went wrong. Or send it from your own email app if you prefer.</li>
+<li>If Kontakt Artwork ever closes unexpectedly, it offers to send a report the next time you open it.</li>
+<li>Privacy Policy link in Help, and clearer help links in light and dark mode.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.1.2.dmg" length="8493882" type="application/octet-stream" sparkle:edSignature="lm7vGrDkNBfhJZCbq0qDhp6lDllF0aR5YG5apPSXqtYQLGVkdnf9surtOAFOfI5Cu65HndsxPE88O3ka/gxyCw=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sun, 04 Oct 2026 17:30:00 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
