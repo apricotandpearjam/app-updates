@@ -3,6 +3,20 @@
     <channel>
         <title>Kontakt Artwork</title>
         <item>
+            <title>1.1.3</title>
+            <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.1.3</h2><ul>
+<li>If your backup folder moves or goes missing, Kontakt Artwork now tells you plainly and lets you choose the new location. It never quietly makes a new folder.</li>
+<li>If a library's drive isn't plugged in, you get a short card: "Your artwork still works. Plug it in when you can." It closes by itself when the drive comes back.</li>
+<li>Backups now also run once a day when you open the app, so a quiet month no longer leaves your backup weeks old.</li>
+<li>Backups follow the Kontakt Artwork folder when iCloud Drive moves it.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.1.3.dmg" length="8651861" type="application/octet-stream" sparkle:edSignature="xEcj+bwuvPO3WSuCwTva11sa8JhRy2vrbnsfovb2dLk18j+lhKfFtigT5l5OJNMOoIHLf0HpAZmHxhAsyDDFAw=="/>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Tue, 27 Oct 2026 12:59:00 +0000</pubDate>
             <sparkle:version>5</sparkle:version>
