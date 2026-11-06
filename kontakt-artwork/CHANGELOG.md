@@ -1,5 +1,11 @@
 # Kontakt Artwork
 
+## 1.1.3, 5 November 2026
+- If your backup folder moves or goes missing, Kontakt Artwork now tells you plainly and lets you choose the new location. It never quietly makes a new folder.
+- If a library's drive isn't plugged in, you get a short card: "Your artwork still works. Plug it in when you can." It closes by itself when the drive comes back.
+- Backups now also run once a day when you open the app, so a quiet month no longer leaves your backup weeks old.
+- Backups follow the Kontakt Artwork folder when iCloud Drive moves it.
+
 ## 1.1.2, 27 October 2026
 - Get help now sends your message straight to us from inside the app, with an optional name and a short report attached so we can see what went wrong. Or send it from your own email app if you prefer.
 - If Kontakt Artwork ever closes unexpectedly, it offers to send a report the next time you open it.
