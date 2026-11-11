@@ -3,6 +3,23 @@
     <channel>
         <title>Kontakt Artwork</title>
         <item>
+            <title>1.1.4</title>
+            <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.1.4</h2><ul>
+<li>Restoring a backup is safer: your current artwork is only swapped out once the copy has finished, so a restore that stops halfway can no longer leave you with less.</li>
+<li>Revert now asks before it puts the original artwork back.</li>
+<li>If some artwork can't be written in a batch, the list stays open and shows which ones, so nothing fails quietly.</li>
+<li>The Backup tab now tells you when the backup in your folder came from another Mac.</li>
+<li>Kontakt's own settings file is never overwritten if it can't be read.</li>
+<li>Image search skips very large pictures, so one bad result can't slow the app.</li>
+<li>Your licence is now kept in the Keychain and re-checked about once a month.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.1.4.dmg" length="8786688" type="application/octet-stream" sparkle:edSignature="ygx4nKyaryqqwp57jnXvThbWiCfpkmdnemwniDTojsvypfMLUWUvBjnhRG8MfbsE7ExgoVpF+WdhPW6zgRbnDg=="/>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
