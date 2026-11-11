@@ -1,5 +1,14 @@
 # Kontakt Artwork
 
+## 1.1.4, 11 November 2026
+- Restoring a backup is safer: your current artwork is only swapped out once the copy has finished, so a restore that stops halfway can no longer leave you with less.
+- Revert now asks before it puts the original artwork back.
+- If some artwork can't be written in a batch, the list stays open and shows which ones, so nothing fails quietly.
+- The Backup tab now tells you when the backup in your folder came from another Mac.
+- Kontakt's own settings file is never overwritten if it can't be read.
+- Image search skips very large pictures, so one bad result can't slow the app.
+- Your licence is now kept in the Keychain and re-checked about once a month.
+
 ## 1.1.3, 5 November 2026
 - If your backup folder moves or goes missing, Kontakt Artwork now tells you plainly and lets you choose the new location. It never quietly makes a new folder.
 - If a library's drive isn't plugged in, you get a short card: "Your artwork still works. Plug it in when you can." It closes by itself when the drive comes back.
