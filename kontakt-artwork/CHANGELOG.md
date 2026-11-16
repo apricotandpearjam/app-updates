@@ -1,5 +1,8 @@
 # Kontakt Artwork
 
+## 1.1.5, 14 November 2026
+- Tightened the licence safety net: if your Mac's Keychain can't be read for a moment, Kontakt Artwork now keeps working only for properly activated copies.
+
 ## 1.1.4, 11 November 2026
 - Restoring a backup is safer: your current artwork is only swapped out once the copy has finished, so a restore that stops halfway can no longer leave you with less.
 - Revert now asks before it puts the original artwork back.
