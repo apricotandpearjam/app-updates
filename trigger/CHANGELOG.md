@@ -2,6 +2,13 @@
 
 All notable changes to Trigger, the Ableton Live remapping utility from All Good Folks.
 
+## 1.4.3, 23 November 2026
+- Now runs on macOS Ventura (13) and later
+- A new licence check, and your existing licence key keeps working
+- A "Trigger is unlocked" screen thanks you once your licence is activated
+- Settings has a new Licence section showing your key and that it works on up to 3 Macs
+- Small fixes and polish
+
 ## 1.4
 
 New
