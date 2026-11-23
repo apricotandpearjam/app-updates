@@ -3,6 +3,20 @@
     <channel>
         <title>Kontakt Artwork</title>
         <item>
+            <title>1.1.7</title>
+            <pubDate>Mon, 23 Nov 2026 16:21:19 +0000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Kontakt Artwork 1.1.7</h2><ul>
+<li>A licence you have activated on your Mac now stays valid, whatever happens to the old online licence service later.</li>
+<li>Licences now activate through our new licence provider. Keys you already have still work.</li>
+<li>After you activate, a clear "Kontakt Artwork is unlocked" screen confirms it before you start.</li>
+<li>Settings now has a Licence section: it shows the licence is active, the key with only its last 4 characters, the version, and a Deactivate this Mac button to free the seat when you move to a new Mac.</li>
+</ul>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/apricotandpearjam/app-updates/main/kontakt-artwork/KontaktArtwork-1.1.7.dmg" length="8879354" type="application/octet-stream" sparkle:edSignature="+tuLYDt6W8M54xFy5JjrjLwBxro2gMVPr6u+zMfliHpqDnfQ5l0caYze8a5Wobzs4fw8RqGsiaC1m9ER2+cKDQ=="/>
+        </item>
+        <item>
             <title>1.1.5</title>
             <pubDate>Mon, 16 Nov 2026 10:15:00 +0000</pubDate>
             <sparkle:version>8</sparkle:version>

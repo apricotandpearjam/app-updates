@@ -1,5 +1,11 @@
 # Kontakt Artwork
 
+## 1.1.7, 23 November 2026
+- A licence you have activated on your Mac now stays valid, whatever happens to the old online licence service later.
+- Licences now activate through our new licence provider. Keys you already have still work.
+- After you activate, a clear "Kontakt Artwork is unlocked" screen confirms it before you start.
+- Settings now has a Licence section: it shows the licence is active, the key with only its last 4 characters, the version, and a Deactivate this Mac button to free the seat when you move to a new Mac.
+
 ## 1.1.5, 14 November 2026
 - Tightened the licence safety net: if your Mac's Keychain can't be read for a moment, Kontakt Artwork now keeps working only for properly activated copies.
 
